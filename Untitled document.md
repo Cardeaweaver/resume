@@ -4,7 +4,7 @@
 
 ### **PROFESSIONAL SUMMARY**
 
-An aspiring Full Stack Developer with a background in \[Insert previous industry, e.g., Operations/Service\] and a deep passion for technological innovation. Currently mastering the modern web stack with a focus on creating responsive, efficient, and user-friendly applications. Proven ability to learn complex systems quickly and apply analytical problem-solving to technical challenges.
+An aspiring Full Stack Developer with a a deep passion for technological innovation. Currently mastering the modern web stack with a focus on creating responsive, efficient, and user-friendly applications. Proven ability to learn complex systems quickly and apply analytical problem-solving to technical challenges.
 
 ### **TECHNICAL SKILLS**
 
@@ -28,7 +28,7 @@ An aspiring Full Stack Developer with a background in \[Insert previous industry
 * Perform deep-dive research into emerging tech trends to stay ahead of industry standards.  
 * Debugged and optimized personal scripts, improving performance and code readability.
 
-**\[Insert Your Most Recent Job Title\]** | *\[Company Name\]* | *\[Dates\]*
+**Consrutcion/Remodeling Foreman ** | Right Now Remodeling | *2023-2025*
 
 * Managed daily operations with a focus on efficiency and attention to detail.  
 * Problem-solved real-time issues to ensure seamless workflow and customer/client satisfaction.  
@@ -36,7 +36,7 @@ An aspiring Full Stack Developer with a background in \[Insert previous industry
 
 ### **EDUCATION**
 
-**Full Stack Web Development Program** | *Self-Directed / \[Platform Name, e.g., Codecademy\]* **\[Degree or Diploma Name\]** | *\[School Name\], \[Location\]*
+**Full Stack Web Development Program** | *Self-Directed /HTML, Java Script, CSS* **Web developer** | *Bloom Tech *
 
 ### **INTERESTS & TRIVIA**
 
