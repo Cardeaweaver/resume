@@ -1,6 +1,6 @@
 # **CARDE’A WEAVER**
 
-**Full Stack Developer (Learner) | Tech Innovation Specialist** 📍 Lorain, OH | 📞 440-983-8837 | 📧 cardeaweaver@gmail.com 🔗 [github.com/Cardeaweaver](https://www.google.com/search?q=https://github.com/Cardeaweaver) | 🔗 [linkedin.com/in/cardea-weaver-72240599/](https://www.linkedin.com/in/cardea-weaver-72240599/)
+**Full Stack Developer  | Tech Innovation Specialist** 📍 Lorain, OH | 📞 440-983-8837 | 📧 cardeaweaver@gmail.com 🔗 [github.com/Cardeaweaver](https://www.google.com/search?q=https://github.com/Cardeaweaver) | 🔗 [linkedin.com/in/cardea-weaver-72240599/](https://www.linkedin.com/in/cardea-weaver-72240599/)
 
 ### **PROFESSIONAL SUMMARY**
 
