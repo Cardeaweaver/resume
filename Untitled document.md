@@ -1,39 +1,45 @@
-**Carde'a Weaver**  
-**Full Stack Web Developer | Software Engineer**
-Lorain, OH | 440-983-8837 | [cardeaweaver@gmail.com](mailto:cardeaweaver@gmail.com) | [GitHub](https://github.com/Cardeaweaver) | [LinkedIn](https://www.linkedin.com/in/cardea-weaver-72240599/)
+# **CARDE’A WEAVER**
 
-**TECHNICAL SKILLS**
+**Full Stack Developer  | Tech Innovation Specialist** 📍 Lorain, OH | 📞 440-983-8837 | 📧 cardeaweaver@gmail.com 🔗 [github.com/Cardeaweaver](https://www.google.com/search?q=https://github.com/Cardeaweaver) | 🔗 [linkedin.com/in/cardea-weaver-72240599/](https://www.linkedin.com/in/cardea-weaver-72240599/)
 
-**Front End:** React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Ant Design
-**Back End:** Node.js, Express, SQL, PostgreSQL, Docker, Python, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify
-**Additional:** Agile Project Management, Algorithms, Architecture, Debugging, Deployment
+### **PROFESSIONAL SUMMARY**
 
-**PROJECTS**
+An aspiring Full Stack Developer with a a deep passion for technological innovation. Currently mastering the modern web stack with a focus on creating responsive, efficient, and user-friendly applications. Proven ability to learn complex systems quickly and apply analytical problem-solving to technical challenges.
 
-**Portfolio Website,** *Full Stack Developer -* React | Node    [GitHub](https://github.com/Cardeaweaver) | [Website](#)
+### **TECHNICAL SKILLS**
 
-* Building a responsive personal portfolio showcasing projects and technical skills using React and modern CSS
-* Implementing component-based architecture with hooks and context for state management
+* **Web Development:** HTML5, CSS3 (Flexbox/Grid), JavaScript (ES6+), Responsive Design.  
+* **Tools & Environment:** Git/GitHub (Version Control), VS Code, Command Line, Vercel.  
+* **Core Competencies:** Technical Research, Logical Troubleshooting, Rapid Learning, System Optimization.
 
-**Web Application Projects,** *Full Stack Developer -* JavaScript | HTML | CSS [GitHub](https://github.com/Cardeaweaver) | [Website](#)
+### **TECHNICAL PROJECTS**
 
-* Developing mobile-first web applications focused on clean UI/UX and accessible design
-* Utilizing Git/GitHub for version control and collaborative development workflows
+**GitHub Development Portfolio** | *Lorain, OH (Remote)*
 
-**Open Source Contributions,** *Full Stack Developer* - Various Technologies       [GitHub](https://github.com/Cardeaweaver) | [Website](#)
+* Developing and maintaining open-source repositories to showcase proficiency in frontend and backend fundamentals.  
+* Building mobile-first web applications with a focus on clean UI/UX and accessible design.  
+* **Key Achievement:** Consistently documenting code and utilizing Git for structured version control.
 
-* Contributing to open-source repositories to gain experience with real-world codebases
-* Documenting code and following best practices for maintainable software development
+### **PROFESSIONAL EXPERIENCE**
 
-**EXPERIENCE**
+**Self-Directed Developer & Tech Researcher** | *2024 – Present*
 
-**Self-Directed Developer & Tech Researcher**, *Remote*      2024 - present
+* Dedicate intensive weekly hours to learning Full Stack architecture, including API integration and database management.  
+* Perform deep-dive research into emerging tech trends to stay ahead of industry standards.  
+* Debugged and optimized personal scripts, improving performance and code readability.
 
-* Dedicating intensive weekly hours to mastering Full Stack web development architecture, including API integration and database management
-* Performing deep-dive research into emerging tech trends and industry best practices
-* Building and debugging personal projects to improve code quality, performance, and readability
-* Consistently documenting code and utilizing Git for structured version control across all projects
+**Consrutcion/Remodeling Foreman ** | Right Now Remodeling | *2023-2025*
 
-**EDUCATION**
+* Managed daily operations with a focus on efficiency and attention to detail.  
+* Problem-solved real-time issues to ensure seamless workflow and customer/client satisfaction.  
+* Collaborated with team members to meet and exceed performance benchmarks.
 
-**Full Stack Web Development** *Self-Directed Learning*      2024 - present
+### **EDUCATION**
+
+**Full Stack Web Development Program** | *Self-Directed /HTML, Java Script, CSS* **Web developer** | *Bloom Tech *
+
+### **INTERESTS & TRIVIA**
+
+* **Tech Obsession:** Always exploring the latest in hardware and software innovation.  
+* **Fun Fact:** Knowledgeable in ornithology—did you know a bird's wings can actually weigh more **than** its entire body?
+
